@@ -38,15 +38,4 @@ My main goal is to continuously improve myself and prepare for the industry by g
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=defnenurciftci&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=dark&hide_border=true" />
-</p>>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=defnenurciftci&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>

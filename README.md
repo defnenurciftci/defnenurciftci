@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=defnenurciftci&icon=9&color=2)](https://visitcount.itsvg.in)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurçiftçi)

@@ -37,5 +37,5 @@ My main goal is to continuously improve myself and prepare for the industry by g
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=dark)
 

@@ -40,14 +40,10 @@ My main goal is to continuously improve myself and prepare for the industry by g
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defnenurciftci&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=fff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=transparent&hide_border=true&title_color=61DAFB&text_color=fff" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defnenurciftci&theme=transparent&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=fff&sideNums=fff&currStreakLabel=61DAFB&sideLabels=61DAFB" alt="GitHub Streak" />
-</p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=defnenurciftci&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=dark&hide_border=true" />
+</p>>
 
 <br>
 

@@ -1,8 +1,6 @@
 # 💫 About Me
 
-Hi 👋 I'm **Defne Nur Çiftçi**  
-
-I'm currently working with **React**, **C#**, and **ASP.NET Core**.  
+Hi 👋 I'm **Defne Nur Çiftçi** I'm currently working with **React**, **C#**, and **ASP.NET Core**.  
 My interests lie in both **frontend** and **backend** development, and I enjoy building practical projects that strengthen my technical skills.
 
 My main goal is to continuously improve myself and prepare for the industry by gaining **real-world experience** through hands-on development 🚀
@@ -32,12 +30,20 @@ My main goal is to continuously improve myself and prepare for the industry by g
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defnenurciftci&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=defnenurciftci&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=defnenurciftci&theme=dark&hide_border=false)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defnenurciftci&theme=dark" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=dark&hide_border=false&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defnenurciftci&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=defnenurciftci&icon=9&color=2)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=defnenurciftci&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
